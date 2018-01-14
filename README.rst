@@ -21,8 +21,8 @@ Pin Assignment
 ======= ===========
 PIN     Device
 ======= ===========
-+3V3    -
-GND     -
++3V3    
+GND     
 GPIO 17 Tact switch
 GPIO 22 Red LED
 ======= ===========
